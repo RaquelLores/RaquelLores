@@ -17,9 +17,8 @@
 ## 📊 GitHub stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raquellores&layout=compact)](https://github.com/raquellores/github-readme-stats)
-<p align="left">
 [![RaquelLores' GitHub stats](https://github-readme-stats.vercel.app/api?username=raquellores)](https://github.com/raquellores/github-readme-stats&include_all_commits=true)
-</p>
+
 <!-- Technology Stack Section -->
 ## 💻 Technology Stack
 
