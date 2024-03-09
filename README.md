@@ -1,7 +1,3 @@
-### Welcome to my GitHub repository 
-
-**RaquelLores** 
-
 <!-- Title -->
 <h1 align="center">¡Hello! 👋 I'm Raquel Lores Casalinas</h1>
 
@@ -47,14 +43,6 @@ Scrum Team Project using JavaScript, HTML5 and CSS3, made in Febuary 2024.
 [https://toquen-el-dom-f5.vercel.app/index.html](https://toquen-el-dom-f5.vercel.app/index.html)
 I'm currently working on the back end of a React application about bicycles, and on the front end of an app to register data about bonsais. Stay tuned!
 
-<!-- Badges -->
-<p align="center">
-  <!-- Followers Badge -->
-  <img src="https://img.shields.io/github/followers/RaquelLores?label=Seguir&style=social" alt="Followers in GitHub">
-  <!-- Profile Views Badge -->
-  <img src="https://komarev.com/ghpvc/?username=RaquelLores&color=brightgreen" alt="Raquel Lores' Profile Views">
-</p>
-
 <!-- Contact Section -->
 ## 📫 Contact
 
@@ -68,7 +56,13 @@ I'm currently working on the back end of a React application about bicycles, and
 ## 🙏 Acknowledgements
 
 Thanks for visiting my profile!
-
+<!-- Badges -->
+<p align="center">
+  <!-- Followers Badge -->
+  <img src="https://img.shields.io/github/followers/RaquelLores?label=Seguir&style=social" alt="Followers in GitHub">
+  <!-- Profile Views Badge -->
+  <img src="https://komarev.com/ghpvc/?username=RaquelLores&color=brightgreen" alt="Raquel Lores' Profile Views">
+</p>
 <!-- Footer -->
 <footer align="center">
   Made with ❤ using Markdown and GitHub.
