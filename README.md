@@ -46,7 +46,7 @@ I'm currently working on the back end of a React application about bicycles, and
 <!-- Contact Section -->
 ## 📫 Contact
 
-¡Feel free to contact me! 
+Feel free to contact me! 
 
 - *Email*: [rlorescasalinas@gmail.com](mailto:rlorescasalinas@gmail.com)
 - *LinkedIn*: [LinkedIn Profile](https://www.linkedin.com/in/raquelloreswebfullstackdev/)
