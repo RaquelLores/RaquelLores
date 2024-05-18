@@ -40,7 +40,8 @@ This is part of the tech stack that I use as a Web Developer:
 
 Scrum Team Project using JavaScript, HTML5 and CSS3, made in Febuary 2024.
 [https://toquen-el-dom-f5.vercel.app/index.html](https://toquen-el-dom-f5.vercel.app/index.html)
-I'm currently working on the back end of a React application about bicycles, and on the front end of an app to register data about bonsais. Stay tuned!
+I am currently developing a full stack web application to manage news, for NewValue News (Métrica Consulting).
+I have developed the back end of a React application about bicycles. One of my most interesting projects is an app to register data about bonsais. Stay tuned!
 
 <!-- Contact Section -->
 ## 📫 Contact
@@ -49,7 +50,6 @@ Feel free to contact me!
 
 - *Email*: [rlorescasalinas@gmail.com](mailto:rlorescasalinas@gmail.com)
 - *LinkedIn*: [LinkedIn Profile](https://www.linkedin.com/in/raquelloreswebfullstackdev/)
-- *Web Site*: Underconstruction
 
 <!-- Acknowledgements Section -->
 ## 🙏 Acknowledgements
