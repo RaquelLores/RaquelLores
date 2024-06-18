@@ -7,10 +7,10 @@
 <!-- About me Section -->
 ## 📖 About me
 
-- 🔭 I’m a career transitioner into software development, currently developing clean code on a Web Development Bootcamp called FemCoders, supported by Google.org
-- 🌱 Currently learning Full Stack development.
+- 🔭 I’m a career transitioner into software development, currently developing clean code after finishing a 850 hrs. bootcamp.
+- 🌱 Learnt Full Stack development.
 - 👯 I’m looking to collaborate on front-end & back-end projects.
-- 💬 Ask me about user interface and Back End creation, reuseable web components, MySQL and testing with Jest and SuperTest.
+- 💬 Ask me about user interface and reuseable web components, MySQL and testing with Jest and Vitest.
 - 😄 Pronouns: she/her.
   
 <!-- Stats Section -->
