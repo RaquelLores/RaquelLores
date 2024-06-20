@@ -7,7 +7,7 @@
 <!-- About me Section -->
 ## 📖 About me
 
-- 🔭 I’m a career transitioner into software development, currently developing clean code after finishing a 850 hrs. bootcamp.
+- 🔭 Software Developer with experience with JavaScript, ReactJS, Node/Express, UX-UI design and web content creation.
 - 🌱 Learnt Full Stack development.
 - 👯 I’m looking to collaborate on front-end & back-end projects.
 - 💬 Ask me about user interface and reuseable web components, MySQL and testing with Jest and Vitest.
