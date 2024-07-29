@@ -2,7 +2,7 @@
 <h1 align="center">¡Hello! 👋 I'm Raquel Lores Casalinas</h1>
 
 <!-- Description -->
-<p align="center"> Welcome to my GitHub repository! I'm a Web Full-Stack Developer based in Madrid, Spain.</p>
+<p align="center"> Welcome to my GitHub repository! I'm a Front-End Developer based in Madrid, Spain.</p>
 
 <!-- About me Section -->
 ## 📖 About me
@@ -10,7 +10,7 @@
 - 🔭 Software Developer with experience with JavaScript, ReactJS, Node/Express, UX-UI design and web content creation.
 - 🌱 Learnt Full Stack development.
 - 👯 I’m looking to collaborate on front-end & back-end projects.
-- 💬 Ask me about UI and reuseable web components, MySQL and testing with Jest and Vitest.
+- 💬 Ask me about UI, Tailwind and reuseable web components, MySQL and testing with Jest and Vitest.
 - 😄 Pronouns: she/her.
   
 <!-- Stats Section -->
@@ -39,7 +39,7 @@ This is part of the tech stack that I use as a Web Developer:
 ## 🚀 Main Projects
 
 **NewValue News Management Tool**: Full stack application to add to the existing NewValue website, to allow the Admin to access a dashboard to perform CRUD operations with News.
-- **Technologies Used**: Vite, React, Tailwind, Vitests. Back-end: Node,js, Express.js, TypeScript, MySQL, Sequalize, Jest, Figma. Other: Trello, Postman, Cloudinary.
+- **Technologies Used**: Vite, React, Tailwind, Vitests. Back-end: Node,js, Express.js, TypeScript, MySQL, Sequalize, Jest. Other: Figma, Trello, Postman, Cloudinary.
 - **Features**: Various contexts throughout the app using the useContext hook. With the Administrator role it is possible to: 
 - Publish news with pictures in LinkedIn from the app.
 - Create moderators to allow them to write article news.
