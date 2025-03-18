@@ -38,6 +38,16 @@ This is part of the tech stack that I use as a Web Developer:
 <!-- Main Projects Section -->
 ## 🚀 Main Projects
 
+**IrisCore**: Application for Data Analysts to manage data insights from building control systems and write rules. I have designed and programmed the main page of the app, right after the sign in page.
+- **Technologies Used**: TypeScript, Remix, Docker, Vite, React, Tailwind, Figma, Git and corporate Github for Sistrol Edison Next Spain.
+- **Features**: Customization with username, responsive design and reusable components.
+- **Date**: 2/2025
+  
+**Wopr**: Application to transform and view big data from building control systems in 2D force graphs. Integrated in the Edison Next app. 
+- **Technologies Used**: TypeScript, Remix, Docker, Vite, React, Tailwind, Figma, Git y Github corporativo Edison Next Spain.
+- **Features**: Dynamic Graph that renders different data models in a graph with nodes and links. Each node opens an onclick information Card. Layout with Dagree library, graph with ForceGraph library.
+- **Date**: 12/2024
+  
 **NewValue News Management Tool**: Full stack application to add to the existing NewValue website, to allow the Admin to access a dashboard to perform CRUD operations with News.
 - **Technologies Used**: Vite, React, Tailwind, Vitests. Back-end: Node,js, Express.js, TypeScript, MySQL, Sequalize, Jest. Other: Figma, Trello, Postman, Cloudinary.
 - **Features**: Various contexts throughout the app using the useContext hook. With the Administrator role it is possible to: 
