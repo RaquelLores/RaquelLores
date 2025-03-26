@@ -9,7 +9,7 @@
 
 - 🔭 Software Developer with experience with JavaScript, ReactJS, Node/Express, UX-UI design and web content creation.
 - 🌱 Learnt Full Stack development.
-- 👯 I’m looking to collaborate on front-end & back-end projects.
+- 👯 I work on frontend projects, building user-friendly UI and ensuring a smooth UX. I can integrate the frontend with the backend, with Node.js and I can handle API calls.
 - 💬 Ask me about UI, Tailwind and reuseable web components, MySQL and testing with Jest and Vitest.
 - 😄 Pronouns: she/her.
   
@@ -38,14 +38,15 @@ This is part of the tech stack that I use as a Web Developer:
 <!-- Main Projects Section -->
 ## 🚀 Main Projects
 
-**IrisCore**: Application for Data Analysts to manage data insights from building control systems and write rules. I have designed and programmed the main page of the app, right after the sign in page.
+**IrisCore**: An application for data analysts to manage various datasets, gain insights, and define rules. I have developed components that contribute to the application's functionality, user experience, and overall performance, ensuring seamless integration with other parts of the project.
 - **Technologies Used**: TypeScript, Remix, Docker, Vite, React, Tailwind, Figma, Git and corporate Github for Sistrol Edison Next Spain.
 - **Features**: Customization with username, responsive design and reusable components.
 - **Date**: 2/2025
   
-**Wopr**: Application to transform and view big data from building control systems in 2D force graphs. Integrated in the Edison Next app. 
+**Wopr**: I have developed components for an application that transforms and visualizes different data models containing big data from building control systems. 
+These models are displayed using interactive 2D force-directed graphs, allowing users to explore relationships and insights intuitively. The solution is integrated into the Edison Next app, ensuring seamless data processing and visualization within the platform. 
 - **Technologies Used**: TypeScript, Remix, Docker, Vite, React, Tailwind, Figma, Git y Github corporativo Edison Next Spain.
-- **Features**: Dynamic Graph that renders different data models in a graph with nodes and links. Each node opens an onclick information Card. Layout with Dagree library, graph with ForceGraph library.
+- **Features**: A dynamic graph that renders data models, using nodes and links. Each node displays an information card on click, providing detailed data. The layout is managed with Dagre library amd the graph is powered by ForceGraph library for interactive visualization.
 - **Date**: 12/2024
   
 **NewValue News Management Tool**: Full stack application to add to the existing NewValue website, to allow the Admin to access a dashboard to perform CRUD operations with News.
