@@ -9,7 +9,7 @@
 
 - 🔭 Software Developer with experience with JavaScript, ReactJS, Node/Express, UX-UI design and web content creation.
 - 🌱 Learnt Full Stack development.
-- 👯 I work on frontend projects, building user-friendly UI and ensuring a smooth UX. I can integrate the frontend with the backend, with Node.js and I can handle API calls.
+- 👯 I work on frontend projects, building user-friendly UI and ensuring a smooth UX. I integrate the frontend with the backend, with Node.js and I handle API calls.
 - 💬 Ask me about UI, Tailwind and reuseable web components, MySQL and testing with Jest and Vitest.
 - 😄 Pronouns: she/her.
   
